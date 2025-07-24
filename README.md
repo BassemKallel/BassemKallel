@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sangvie](https://github.com/BassemKallel/Blood-Donation-plateforme-Back-end)
 
-- 🌱 I’m currently learning **SpringBoot , Laravel, and Three.js for 3D web projects**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **impactful open-source projects, especially in healthtech, agritech, and AI-powered tools**
 
