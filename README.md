@@ -43,12 +43,12 @@ Mon projet de fin d'études a consisté à concevoir et industrialiser un écosy
 
 ### 🤖 Core Intelligence Artificielle & Générative
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMs_%2F_Fine--Tuning-🧠-blue?style=flat-square" alt="LLMs & Fine-Tuning" />
-  <img src="https://img.shields.io/badge/RAG_Architectures-📚-green?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Vector_Databases_(Chroma%2FMilvus)-⚡-red?style=flat-square" alt="Vector DB" />
-  <img src="https://img.shields.io/badge/MLOps_Pipelines-🔄-orange?style=flat-square" alt="MLOps" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LLMs_%26_Fine--Tuning-🧠_Deep_Learning-blue?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG_Architectures-📚_GenAI-green?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_DBs_(Chroma%2FMilvus)-⚡_VectorSearch-red?style=flat-square" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/MLOps_Pipelines-🔄_Industrialisation-orange?style=flat-square" alt="MLOps" />
 </p>
 
 ### 🌐 Ingénierie Back-End & API Development
@@ -72,10 +72,10 @@ Mon projet de fin d'études a consisté à concevoir et industrialiser un écosy
 ## 📊 Tableau de Bord & Graphes d'Activité
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      < align="center"><strong>Statistiques Globales</strong></>
-      < align="center"><strong>Série d'Activité (Streak)</strong></>
+      <th align="center">📈 Statistiques Globales</th>
+      <th align="center">🔥 Série d'Activité (Streak)</th>
     </tr>
     <tr>
       <td>
@@ -88,7 +88,7 @@ Mon projet de fin d'études a consisté à concevoir et industrialiser un écosy
     <tr>
       <td colspan="2" align="center">
         <br />
-        <strong>Répartition des Technologies Utilisées (Langages)</strong><br /><br />
+        <strong>📊 Répartition des Technologies Utilisées (Langages)</strong><br /><br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassemKallel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="550px" />
       </td>
     </tr>
