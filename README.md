@@ -69,15 +69,18 @@ Mon projet de fin d'études a consisté à concevoir et industrialiser un écosy
 
 ---
 
-## 📊 Tableau de Bord & Graphes d'Activité
+## 📊 Tableau de Bord de Contributions & Métriques
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BassemKallel&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BassemKallel&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  
+  <!-- BADGES DE MÉTRIQUES DIRECTES -->
+  <img src="https://img.shields.io/github/followers/BassemKallel?label=Followers&style=for-the-badge&color=00D2FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/BassemKallel?label=Total%20Stars&style=for-the-badge&color=blueviolet" alt="Total Stars" />
+  <img src="https://img.shields.io/github/repo-count/BassemKallel?label=Repositories&style=for-the-badge&color=39FF14" alt="Repositories Count" />
+
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassemKallel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="70%" />
+  <!-- GRAPHIQUE D'ACTIVITÉ INTERACTIF ET STABLE -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BassemKallel&theme=tokyonight&area=true" alt="Bassem's Activity Graph" width="100%" />
 </div>
 
 ---
