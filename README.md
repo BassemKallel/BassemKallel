@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- ANIMATION DE BIENVENUE -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Bassem+Kallel;AI+Engineer+%26+Full-Stack+Developer;Specialized+in+NLP%2C+MLOps+%26+Data+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Bassem+Kallel;AI+Engineer+%26+MLOps+Architect;LLMs%2C+Fine-Tuning%2C+RAG+%26+Vector+DBs" alt="Typing SVG" />
 
   <p align="center">
-    <strong>🚀 Transformer la donnée brute en intelligence et bâtir des architectures Web robustes.</strong>
+    <strong>🚀 Concevoir des systèmes d'IA de pointe : du Fine-Tuning de LLMs aux architectures RAG robustes et pipelines MLOps.</strong>
   </p>
 
   <!-- LIENS SOCIAUX -->
@@ -18,46 +18,48 @@
 
 ## 🧑‍💻 À Propos De Moi
 
-Diplômé en **Développement des Systèmes d'Information (DSI)** à l'ISET Bizerte, je suis un passionné de technologies de **22 ans** qui combine une solide expertise en développement Full-Stack et une spécialisation poussée en **Data Analysis, NLP (Natural Language Processing) et MLOps**. 
+Diplômé en **Développement des Systèmes d'Information (DSI)** à l'ISET Radès, je suis un **Ingénieur IA de 22 ans** passionné par l'écosystème de l'IA générative moderne. Mon expertise et mes intérêts se concentrent sur le cycle de vie complet des modèles : du **Fine-Tuning avancé**, à l'implémentation d'architectures **RAG (Retrieval-Augmented Generation)** basées sur des **Vector Databases**, jusqu'à l'industrialisation via le **MLOps**.
 
-Fort de **3 stages enrichissants** et d'une expérience de leadership en tant que **Project Manager chez Enactus ISET Bizerte**, j'allie rigueur technique et compétences en gestion de projet pour mener à bien des solutions innovantes à fort impact.
+Fort de **3 stages techniques** et d'une expérience de leadership en tant que **Project Manager chez Enactus ISET Bizerte**, je combine des compétences algorithmiques avancées en Deep Learning avec une maîtrise rigoureuse du développement Back-End pour concevoir des applications d'IA intelligentes, scalables et prêtes pour la production.
 
 - 🌍 Basé en **Tunisie**
-- ⚙️ Actuellement focus sur : **Le déploiement de pipelines MLOps de bout en bout et l'optimisation des modèles de Vision-AI.**
-- 🤝 Open pour : **Collaborations open source, opportunités en IA/Full-Stack**
+- ⚙️ Mes focus majeurs : **Fine-tuning de LLMs, optimisation de systèmes RAG, gestion des bases de données vectorielles et automatisation MLOps.**
+- 🤝 Open pour : **Collaborations sur des projets IA innovants, opportunités en tant qu'AI Engineer, et consulting.**
 
 ---
 
 ## 🏆 Faits Marquants & Projet de Fin d'Études (PFE)
 
-Mon projet de fin d'études a repoussé les limites du traitement du Dialecte Tunisien (Darija) :
+Mon projet de fin d'études a consisté à concevoir et industrialiser un écosystème d'IA complexe de bout en bout :
 
-* 📊 **Big Data & Data Engineering :** Nettoyage, structuration et labellisation d'un jeu de données massif de **1 Million de lignes de dialecte tunisien**.
-* 🤖 **NLP de Pointe (Fine-Tuning) :** Fine-tuning réussi de deux modèles étalons, **TunBERT** et **GLiNER**, adaptés spécifiquement au dialecte tunisien, atteignant une **précision (Accuracy) exceptionnelle de 91%** sur les deux modèles.
-* 👁️ **Vision AI :** Intégration et alignement du modèle multimodal **CLIP (OpenAI)** pour des capacités avancées de recherche et d'analyse d'images.
-* 🔄 **MLOps Pipeline :** Conception et mise en production d'un pipeline complet de MLOps pour automatiser le cycle de vie du modèle (Data -> Training -> Deployment).
+* 🤖 **Fine-Tuning de Modèles NLP :** Fine-tuning réussi de deux architectures transformers, **TunBERT** et **GLiNER**, hautement adaptées aux spécificités du dialecte tunisien, atteignant une **précision (Accuracy) de 91%** sur les deux modèles.
+* 👁️ **Vision AI & Multimodalité :** Alignement texte/image grâce à l'intégration du modèle de pointe **CLIP (OpenAI)** pour des capacités de recherche sémantique visuelle.
+* 🔄 **Pipeline MLOps Industriel :** Création d'une pipeline MLOps complète pour automatiser et monitorer le cycle de vie des modèles, de la préparation des datasets au déploiement des services d'IA.
+* 🗄️ **Data Engineering pour l'IA :** Traitement, nettoyage et labellisation rigoureuse d'un corpus massif de **1 Million de lignes** de données textuelles complexes.
 
 ---
 
 ## 🛠️ Mon Écosystème Technique
 
-### 🤖 Intelligence Artificielle & Data
+### 🤖 Core Intelligence Artificielle & Générative
 <p align="left">
+  <img src="https://img.shields.io/badge/LLMs_%2F_Fine--Tuning-🧠-blue?style=flat-square" alt="LLMs & Fine-Tuning" />
+  <img src="https://img.shields.io/badge/RAG_Architectures-📚-green?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_Databases_(Chroma%2FMilvus)-⚡-red?style=flat-square" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/MLOps_Pipelines-🔄-orange?style=flat-square" alt="MLOps" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NLP_/_Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="NLP" />
-  <img src="https://img.shields.io/badge/Data_Analysis-🧠-blue?style=flat-square" alt="Data" />
-  <img src="https://img.shields.io/badge/MLOps-🔄-orange?style=flat-square" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
-### 🌐 Développement Web Back-End
+### 🌐 Ingénierie Back-End & API Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Java_OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Java_OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-### 🎨 Développement Web Front-End & Conception
+### 🎨 Interfaces Utilisateurs & Conception
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -67,16 +69,27 @@ Mon projet de fin d'études a repoussé les limites du traitement du Dialecte Tu
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Tableau de Bord & Graphes d'Activité
 
 <div align="center">
   <table border="0">
+    <tr>
+      < align="center"><strong>Statistiques Globales</strong></>
+      < align="center"><strong>Série d'Activité (Streak)</strong></>
+    </tr>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=BassemKallel&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450px" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=BassemKallel&theme=tokyonight" alt="GitHub Streak" width="400px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br />
+        <strong>Répartition des Technologies Utilisées (Langages)</strong><br /><br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassemKallel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="550px" />
       </td>
     </tr>
   </table>
@@ -86,12 +99,12 @@ Mon projet de fin d'études a repoussé les limites du traitement du Dialecte Tu
 
 ## 🤝 Échangeons ensemble !
 
-Que ce soit pour discuter de **NLP**, d'architectures **Full-Stack**, de **MLOps** ou de gestion de projets d'impact :
-- 💬 **Sujets de prédilection :** Traitement automatique des langues (NLP), Fine-tuning de LLM, Frameworks Web Modernes (Spring Boot / Vue.js / Laravel).
-- ⚡ **Fun fact :** J'adore relever des défis où le code rencontre l'impact social et humain (Esprit Enactus !).
+Je suis constamment à la recherche de collaborations stimulantes autour de l'ingénierie algorithmique et de l'IA générative :
+- 💬 **Sujets de prédilection :** Stratégies de Fine-Tuning de LLMs, optimisation de Vector DBs, pipelines MLOps automatisées et orchestration de systèmes RAG avancés.
+- ⚡ **Engagement :** Allier l'excellence technique en IA au leadership de projet pour générer un réel impact (Esprit Enactus !).
 
 <div align="center">
-  <h3>🎯 Build, Scale, Repeat. 🎯</h3>
+  <h3>🎯 Innovate, Automate, Scale. 🎯</h3>
   
   <!-- COMPTEUR DE VISITES -->
   <img src="https://komarev.com/ghpvc/?username=BassemKallel&color=00D2FF&style=flat-square" alt="Profile Views" />
