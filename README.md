@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 À Propos De Moi
 
-Diplômé en **Développement des Systèmes d'Information (DSI)** à l'ISET Radès, je suis un **Ingénieur IA de 22 ans** passionné par l'écosystème de l'IA générative moderne. Mon expertise et mes intérêts se concentrent sur le cycle de vie complet des modèles : du **Fine-Tuning avancé**, à l'implémentation d'architectures **RAG (Retrieval-Augmented Generation)** basées sur des **Vector Databases**, jusqu'à l'industrialisation via le **MLOps**.
+Diplômé en **Développement des Systèmes d'Information (DSI)** à l'ISET Bizerte, je suis un **Etudiant** passionné par l'écosystème de l'IA générative moderne. Mon expertise et mes intérêts se concentrent sur le cycle de vie complet des modèles : du **Fine-Tuning avancé**, à l'implémentation d'architectures **RAG (Retrieval-Augmented Generation)** basées sur des **Vector Databases**, jusqu'à l'industrialisation via le **MLOps**.
 
 Fort de **3 stages techniques** et d'une expérience de leadership en tant que **Project Manager chez Enactus ISET Bizerte**, je combine des compétences algorithmiques avancées en Deep Learning avec une maîtrise rigoureuse du développement Back-End pour concevoir des applications d'IA intelligentes, scalables et prêtes pour la production.
 
@@ -72,27 +72,12 @@ Mon projet de fin d'études a consisté à concevoir et industrialiser un écosy
 ## 📊 Tableau de Bord & Graphes d'Activité
 
 <div align="center">
-  <table>
-    <tr>
-      <th align="center">📈 Statistiques Globales</th>
-      <th align="center">🔥 Série d'Activité (Streak)</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=BassemKallel&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450px" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BassemKallel&theme=tokyonight" alt="GitHub Streak" width="400px" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br />
-        <strong>📊 Répartition des Technologies Utilisées (Langages)</strong><br /><br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassemKallel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="550px" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=BassemKallel&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BassemKallel&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassemKallel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="70%" />
 </div>
 
 ---
