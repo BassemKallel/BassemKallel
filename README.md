@@ -1,28 +1,98 @@
-<h1 align="center">Hi 👋, I'm Bassem Kallel</h1>
-<h3 align="center">2nd-year student in Information Systems Development at ISET Bizerte</h3>
+<div align="center">
+  
+  <!-- ANIMATION DE BIENVENUE -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Bassem+Kallel;AI+Engineer+%26+Full-Stack+Developer;Specialized+in+NLP%2C+MLOps+%26+Data+Analysis" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [Sangvie](https://github.com/BassemKallel/Blood-Donation-plateforme-Back-end)
+  <p align="center">
+    <strong>🚀 Transformer la donnée brute en intelligence et bâtir des architectures Web robustes.</strong>
+  </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+  <!-- LIENS SOCIAUX -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/bassem-kallel-91b7311aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:kallel.bassem@bizerte.r-iset.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
 
-- 👯 I’m looking to collaborate on **impactful open-source projects, especially in healthtech, agritech, and AI-powered tools**
+---
 
-- 🤝 I’m looking for help with **optimizing backend architecture** and **implementing real-time notifications**
+## 🧑‍💻 À Propos De Moi
 
-- 💬 Ask me about **Vue.js, Spring Boot, project ideation, or how to start with Enactus**
+Diplômé en **Développement des Systèmes d'Information (DSI)** à l'ISET Bizerte, je suis un passionné de technologies de **22 ans** qui combine une solide expertise en développement Full-Stack et une spécialisation poussée en **Data Analysis, NLP (Natural Language Processing) et MLOps**. 
 
-- 📫 How to reach me **kallel.bassem@bizerte.r-iset.tn**
+Fort de **3 stages enrichissants** et d'une expérience de leadership en tant que **Project Manager chez Enactus ISET Bizerte**, j'allie rigueur technique et compétences en gestion de projet pour mener à bien des solutions innovantes à fort impact.
 
-<h3 align="left">Connect with me:</h3>
+- 🌍 Basé en **Tunisie**
+- ⚙️ Actuellement focus sur : **Le déploiement de pipelines MLOps de bout en bout et l'optimisation des modèles de Vision-AI.**
+- 🤝 Open pour : **Collaborations open source, opportunités en IA/Full-Stack**
+
+---
+
+## 🏆 Faits Marquants & Projet de Fin d'Études (PFE)
+
+Mon projet de fin d'études a repoussé les limites du traitement du Dialecte Tunisien (Darija) :
+
+* 📊 **Big Data & Data Engineering :** Nettoyage, structuration et labellisation d'un jeu de données massif de **1 Million de lignes de dialecte tunisien**.
+* 🤖 **NLP de Pointe (Fine-Tuning) :** Fine-tuning réussi de deux modèles étalons, **TunBERT** et **GLiNER**, adaptés spécifiquement au dialecte tunisien, atteignant une **précision (Accuracy) exceptionnelle de 91%** sur les deux modèles.
+* 👁️ **Vision AI :** Intégration et alignement du modèle multimodal **CLIP (OpenAI)** pour des capacités avancées de recherche et d'analyse d'images.
+* 🔄 **MLOps Pipeline :** Conception et mise en production d'un pipeline complet de MLOps pour automatiser le cycle de vie du modèle (Data -> Training -> Deployment).
+
+---
+
+## 🛠️ Mon Écosystème Technique
+
+### 🤖 Intelligence Artificielle & Data
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bassem-kallel-91b7311aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bassem-kallel-91b7311aa/" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NLP_/_Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="NLP" />
+  <img src="https://img.shields.io/badge/Data_Analysis-🧠-blue?style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/MLOps-🔄-orange?style=flat-square" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 🌐 Développement Web Back-End
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassemkallel&show_icons=true&locale=en&layout=compact" alt="bassemkallel" /></p>
+### 🎨 Développement Web Front-End & Conception
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/UML_%2F_Conception-Design-blueviolet?style=flat-square" alt="UML" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassemkallel&show_icons=true&locale=en" alt="bassemkallel" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassemkallel&" alt="bassemkallel" /></p>
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=BassemKallel&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450px" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BassemKallel&theme=tokyonight" alt="GitHub Streak" width="400px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Échangeons ensemble !
+
+Que ce soit pour discuter de **NLP**, d'architectures **Full-Stack**, de **MLOps** ou de gestion de projets d'impact :
+- 💬 **Sujets de prédilection :** Traitement automatique des langues (NLP), Fine-tuning de LLM, Frameworks Web Modernes (Spring Boot / Vue.js / Laravel).
+- ⚡ **Fun fact :** J'adore relever des défis où le code rencontre l'impact social et humain (Esprit Enactus !).
+
+<div align="center">
+  <h3>🎯 Build, Scale, Repeat. 🎯</h3>
+  
+  <!-- COMPTEUR DE VISITES -->
+  <img src="https://komarev.com/ghpvc/?username=BassemKallel&color=00D2FF&style=flat-square" alt="Profile Views" />
+</div>
